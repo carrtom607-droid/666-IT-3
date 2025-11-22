@@ -1,5 +1,5 @@
 # 666-IT-3
-666it.com优质课程大全
+666it.top优质课程大全
 - [jk MySQL 进阶训练营 （完结）](https://666it.top/15035/)
 - [jk基于DeepSeek AI 全栈开发实战营2025（已完结）](https://666it.top/15031/)
 - [慕ke 深入AI/大模型必修数学体系](https://666it.top/14650/)
